@@ -8,7 +8,7 @@ The main idea is to first stitch the images into a panorama, detect objects in t
 
 ---
 
-## Pipeline
+### Pipeline
 
 1. Load images  
 2. Build panorama (two methods)  
